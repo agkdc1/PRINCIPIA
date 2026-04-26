@@ -1,0 +1,6 @@
+-- NavierStokes.AxisymNoSwirl.MaxPrinciple — aggregator
+import NavierStokes.AxisymNoSwirl.MaxPrinciple.AxisCompatibility
+import NavierStokes.AxisymNoSwirl.MaxPrinciple.FiveDLift
+import NavierStokes.AxisymNoSwirl.MaxPrinciple.FiveDHeatMaxPrinciple
+import NavierStokes.AxisymNoSwirl.MaxPrinciple.CylindricalMaxPrinciple
+import NavierStokes.AxisymNoSwirl.MaxPrinciple.TestChecks

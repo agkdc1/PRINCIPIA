@@ -1,0 +1,27 @@
+import NavierStokes.AxisymNoSwirl.MaxPrinciple.AxisCompatibility
+import NavierStokes.AxisymNoSwirl.MaxPrinciple.FiveDLift
+import NavierStokes.AxisymNoSwirl.MaxPrinciple.FiveDHeatMaxPrinciple
+import NavierStokes.AxisymNoSwirl.MaxPrinciple.CylindricalMaxPrinciple
+
+open NavierStokes.AxisymNoSwirl.MaxPrinciple
+
+#print axioms AxisLinearVanishingPred
+#print axioms AxisymNoSwirlAxisCompatiblePred
+#print axioms GammaInitialDataAdmissible
+#print axioms axisLinearVanishingPred_zero
+#print axioms gammaInitialDataAdmissible_of_bound
+#print axioms liftRadius
+#print axioms meridianRepresentative
+#print axioms embedMeridian
+#print axioms gammaLiftTo5D
+#print axioms CylindricalRepresentativeInvariant
+#print axioms cylindrical_bound_of_lifted_bound
+#print axioms gammaLift_laplacian_eq_gammaDiffusion
+#print axioms FiveDExponentialBound
+#print axioms LiftedGammaBound
+#print axioms TimeSlicedGammaTransportSolution
+#print axioms TimeSlicedFiveDRadialBridge
+#print axioms pointwise_bridge_on_interval
+#print axioms cylindrical_pointwise_exp_bound
+#print axioms conditional_max_principle
+#print axioms conditional_max_principle_initial_data

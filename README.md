@@ -40,10 +40,11 @@ sorries** and build green under `lake build`.
 
 ### NSE Phase 1 (`nse/`)
 
-NSE Phase 1 formalizes branches B1, B2, and B8 of the Navier-Stokes regularity
-problem in Lean 4 against Mathlib4. **Remaining branches (B3–B7, B9+) are deferred
-to Phase 2.** The NSE formalization should not be read as a claim of regularity or
-blow-up for the full 3D incompressible Navier-Stokes system.
+NSE Phase 1 formalizes branches B1, B2, B3, B4, B5, B7, and B8 of the axisymmetric
+no-swirl Navier-Stokes regularity argument in Lean 4 against Mathlib4. **B6 is the
+only Phase 1 branch not yet breached, deferred to Phase 2.** The NSE formalization
+should not be read as a claim of regularity or blow-up for the full 3D incompressible
+Navier-Stokes system.
 
 ### The 1,307 outstanding obligations
 

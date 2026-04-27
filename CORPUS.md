@@ -1,15 +1,71 @@
 # Encyclopedia of Mathematics — Corpus Inventory
 
-This is the textbook ingestion ledger as of the current snapshot. The encyclopedia/
+This is the textbook ingestion ledger as of the current snapshot. The `encyclopedia/`
 tree contains the resulting Lean 4 files. Each entry below corresponds to a
 textbook (or chapter / volume) ingested by the formalization pipeline.
 
-**Totals:** 113 textbook-level entries
-, 1974 sub-targets across all entries.
+**Totals:** 111 textbook-level entries, 1957 sub-targets across all entries.
 
 ---
 
-## 20c — mid
+## 19th century
+
+_20 entries_
+
+| # | Author | Sample sub-targets |
+|---:|---|---|
+| 1 | **Gauss** | disquisitiones; sectionIII; sectionV |
+| 2 | **Laplace** | bayesian inference; central limit theorems; combinatorial probability |
+| 3 | **Cauchy** | derivatives mean value; intermediate value theorem; limits continuity |
+| 4 | **Fourier** | convergence pointwise uniform; fourier series; heat equation derivation |
+| 5 | **Jacobi** | action angle variables; calculus of variations; canonical transformations |
+| 6 | **Boole** | expansion theorem; probability via algebra; propositional calculus |
+| 7 | **Riemann** | abelian integrals; conformal mapping; riemann surfaces |
+| 8 | **Cayley** | cayley hamilton; eigenvalues eigenvectors; matrix algebra basics |
+| 9 | **Dirichlet** | class number formula; dedekind ideals supplement; dirichlet l functions |
+| 10 | **Jordan** | classical groups jordan; galois theory modern; jordan holder theorem |
+| 11 | **Klein** | discrete subgroups sl2; erlangen programme; icosahedron quintic |
+| 12 | **Dedekind** | dedekind cuts; dedekind infinite sets; natural numbers successor |
+| 13 | **Maxwell** | electromagnetic induction; electromagnetic waves; electrostatics |
+| 14 | **Frege** | arithmetic foundations frege; frege courses of values; logical inference rules |
+| 15 | **Lie** | classification low dim lie; continuous transformation groups; differential invariants |
+| 16 | **Poincaré** | asymptotic methods poincare; homoclinic orbits chaos; periodic orbits poincare |
+| 17 | **Weierstrass** | elliptic functions weierstrass; uniform convergence weierstrass; weierstrass approximation |
+| 18 | **Cantor** | cardinality cantor; set theory cantor; transfinite ordinals |
+| 19 | **Poincaré** | fundamental group; homology poincare; manifolds poincare |
+| 20 | **Hilbert** | algebraic number theory zahlbericht; axiomatic geometry hilbert; foundations geometry consistency |
+
+## 20th century — early
+
+_23 entries_
+
+| # | Author | Sample sub-targets |
+|---:|---|---|
+| 1 | **Hilbert** | analyticity of variational solutions; arithmetical compatibility; axioms of physics |
+| 2 | **Lebesgue** | analytic definition of lebesgue integral; borel vs lebesgue measurable boundary; bounded variation jordan decomposition |
+| 3 | **Zermelo** | cantor powerset strictness; choice set selection; countable subset of infinite set |
+| 4 | **Steinitz** | algebraic closure existence and uniqueness; algebraic dependence exchange property; classification of algebraically closed fields |
+| 6 | **Weyl** | abelian differentials and period relations; abstract surface carrier t2; algebraic function field |
+| 7 | **Hausdorff** | cardinal exponentiation; compactness; connectedness |
+| 8 | **Carathéodory** | bolzano weierstrass accumulation 1918; caratheodory measurable sigma algebra; continuous measurable maps between euclidean spaces |
+| 10 | **Noether** | dedekind domain relation |
+| 12 | **Hecke** | analytic class number formula; class group and class number; dedekind zeta functional equation |
+| 13 | **Courant** | bessel functions as radial modes; classical fourier convergence repairs; compact selfadjoint minimax principle |
+| 14 | **Lévy** | bayes total probability interface; cdf stieltjes representation; cdf weak convergence forward |
+| 15 | **Levi-Civita** | — |
+| 15 | **Levi-Civita** | christoffel symbols from metric; class zero class one quadratic forms; complete first order systems |
+| 16 | **Eisenhart** | christoffel symbols and covariant derivative; conformal flatness and geodesic correspondence; constant curvature model spaces |
+| 17 | **Hilbert** | first order semantic completeness boundary; full entscheidungsproblem frontier; logical paradoxes ramified types and reducibility |
+| 18 | **Cartan** | cartan connection; cartan killing form; exterior calculus basic |
+| 19 | **van der Waerden** | field extensions separable perfect finite fields; formal real and sum of squares; galois correspondence and resolvents |
+| 20 | **Gödel** | diagonal self reference fixed point; entscheidungsproblem reduction; finite sequence beta coding |
+| 21 | **Banach** | banach space and classical space substrate; biorthogonal sequences and schauder bases; closed graph theorem |
+| 22 | **von Neumann** | abstract hilbert space and hilbert bases; born rule expectation and projection probabilities; bounded operator adjoint positive star order |
+| 23 | **Kolmogorov** | conditional expectation radon; law of large numbers meas theoretic; probability space axioms |
+| 24 | **Kuratowski** | compact metric basics; continuum structure; descriptive set borel analytic |
+| 25 | **Hilbert** | consistency proof goedel response; epsilon calculus; finitist metamathematics |
+
+## 20th century — mid
 
 _20 entries_
 
@@ -36,7 +92,7 @@ _20 entries_
 | 19 | **Stein** | besov lipschitz modulus spaces; calderon zygmund cube decomposition; calderon zygmund singular integral operators |
 | 20 | **Hörmander** | cauchy problem constant coefficients; constant strength comparison; distribution convolution compact support |
 
-## 20c — late
+## 20th century — late
 
 _24 entries_
 
@@ -67,6 +123,38 @@ _24 entries_
 | 24 | **Hörmander** | analytic function theory pde bridge; carleman uniqueness package; cauchy and mixed problem constant coefficients |
 | 25 | **Lang** | absolute values valuations and complete field zeros; algebraic closure separable inseparable finite field package; alternating product fitting ideals and universal derivations |
 
+## 21st century
+
+_25 entries_
+
+| # | Author | Sample sub-targets |
+|---:|---|---|
+| 1 | **Eisenbud** | affine coherent sheaf and global spec surface; arithmetic scheme examples over spec z; blowups as proj and blowup examples |
+| 2 | **Hatcher** | cellular homology degree and mayer vietoris; cohomology of fiber bundles gysin and transfer; covering space lifting and classification |
+| 3 | **Voisin** | abel jacobi intermediate jacobian deligne cohomology; complex manifold and dolbeault carrier; cycle class chern class and hodge classes |
+| 4 | **Voisin** | abel jacobi map and infinitesimal invariant; abelian variety cycle operations; bloch conjecture and chow filtrations |
+| 5 | **Stein** | circle fourier coefficients parseval l2 convergence; dirichlet characters l functions and primes in ap; euclidean fourier transform on rd |
+| 6 | **Stein** | argument principle and zero pole count; branch logarithm and harmonic conjugate; cauchy goursat and local primitives |
+| 7 | **Stein** | absolutely continuous functions and ftc; abstract measure extension and metric outer measures; besicovitch sets radon transform and kakeya geometry |
+| 8 | **Tao** | almost conservation and i method; benjamin ono gauge transform; energy critical concentration compactness and morawetz |
+| 9 | **Petersen** | bochner hodge curvature operator; bonnet myers synge; cheeger gromoll splitting |
+| 10 | **Connes** | adele class space trace formula; archimedean local factors lefschetz; birkhoff factorization renormalization |
+| 11 | **Grafakos** | calderon zygmund decomposition; conjugate function hilbert transform; differentiation theory via maximal control |
+| 12 | **Lurie** | accessible infinity categories; cartesian fibrations and marked simplicial sets; geometric morphisms limits and etale topoi |
+| 13 | **Silverman** | algorithmic point counting factorization and pairings; complex uniformization of elliptic curves; elliptic curve group law |
+| 14 | **Kedlaya** | cp completion and galois action; kedlaya difference algebra and frobenius modules; kedlaya differential module formalism |
+| 15 | **Tao** | tao abstract measure space core; tao caratheodory measurability and extension; tao convergence theorems fatou monotone dominated |
+| 16 | **HoTT Book (Univalent Foundations)** | univalent dedekind and cauchy reals in uf; univalent dependent type formers and identity types; univalent equivalences as the right notion of sameness |
+| 17 | **Bhatt** | ample line bundle on witt affine grassmannian; central extension from primitive line bundle; demazure resolution as iterated perfect grassmannian bundle |
+| 18 | **Lurie** | lurie associative algebras bimodules and relative tensor product; lurie bar constructions koszul duality and centralizers; lurie categorical patterns and marked simplicial model structures |
+| 19 | **Viazovska** | viazovska cohn elkies linear programming bound; viazovska contour integral radial witness construction; viazovska e8 lattice carrier and shell geometry |
+| 20 | **Bhatt** | bhatt aomega complex construction; bhatt bdr and etale integral comparisons; bhatt breuil kisin fargues modules |
+| 21 | **Fargues** | fargues abstract curve vector bundle hn formalism; fargues almost purity and galois descent for y; fargues banach colmez and alternative classification route |
+| 22 | **Bhatt** | bhatt almost purity via prisms; bhatt aomega comparison and uniqueness of comparison maps; bhatt bms19 comparison and relative nygaard |
+| 23 | **Scholze** | adic morphisms analyticity and; bdr affine grassmannian and schubert geometry; diamond and proetale quotients |
+| 24 | **Clausen** | analytic ring interface; cardinal independence and smallness control; coherent duality via solid modules |
+| 25 | **Kedlaya** | adic space and proetale site; ax sen tate fixed vector vanishing; b cris period ring frobenius |
+
 
 ---
 
@@ -80,12 +168,12 @@ thicker.
 
 Additional textbook-tier targets queued behind the current waves:
 
-- 22c-trajectory targets: ongoing research monographs (Kedlaya, Bhatt, Scholze, 
+- **22c-trajectory targets**: ongoing research monographs (Kedlaya, Bhatt, Scholze,
   Clausen, Lurie); these are 21c entries that continue to evolve.
-- Cross-discipline expansion: physics (Landau–Lifshitz, Wald, Penrose), 
+- **Cross-discipline expansion**: physics (Landau–Lifshitz, Wald, Penrose),
   computer science / logic (Pierce, Harper, Voevodsky's HoTT extensions).
-- Filling earlier-century gaps: pre-19c classical foundations (Euler's Introductio,
-  Lagrange's Mécanique analytique).
+- **Filling earlier-century gaps**: pre-19c classical foundations (Euler's
+  *Introductio*, Lagrange's *Mécanique analytique*).
 
 The corpus is open in scope; new branches land as the campaign continues. The
 encyclopedia is a living artifact, not a fixed table of contents.

@@ -160,12 +160,6 @@ A companion paper will be submitted to arXiv (`math.NT`, cross-listed `math.LO`)
 - **Nicolas Bourbaki**, **Mizar**, **Hilbert** — historical predecessors in the
   formalized-mathematics tradition
 
-## Affiliation
-
-Choonghyun Ahn, MD
-Saitama Medical Center, Trauma Center
-University of Tokyo College of Medicine, Department of Orthopaedic Surgery
-
 ## License
 
 Apache 2.0 — see `LICENSE`. This work is derivative of Mathlib4 (Apache 2.0);

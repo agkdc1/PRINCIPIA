@@ -1,4 +1,4 @@
-*"This repository contains a Lean 4 formalization corpus organized as an encyclopedia of mathematics, with Fermat's Last Theorem and Navier-Stokes Phase 1 included as flagship case studies. It is not a re-formalization of Russell & Whitehead's Principia Mathematica (1910–1913). The directory name pays tribute to the historical Principia tradition while addressing different mathematical content."*
+*"The repository name is a small homage to Newton's Philosophiae Naturalis Principia Mathematica (1687)."*
 
 # Principia Mathematica — Lean 4 Encyclopedia of Mathematics
 
@@ -14,10 +14,18 @@ The corpus is the product of a tiered AI-agent formalization pipeline (methodolo
 paper forthcoming). It is open in scope — new branches land as the campaign
 continues.
 
+## Corpus inventory
+
+A textbook-by-textbook ledger of what the pipeline has ingested so far is at
+[`CORPUS.md`](CORPUS.md). It currently lists 113 textbook-level entries (19th c.,
+20th c. early/mid/late, 21st c.) with sample sub-targets. The roadmap section at
+the end lists the next ~290 primary-source papers queued for the same pipeline.
+
 ## Repository layout
 
 ```
 PRINCIPIA/
+├── CORPUS.md               Ingested + planned textbook ledger
 ├── encyclopedia/           Encyclopedia tree (1,554 Lean files, builds against Mathlib4 v4.17.0)
 │   ├── lakefile.lean
 │   ├── lake-manifest.json

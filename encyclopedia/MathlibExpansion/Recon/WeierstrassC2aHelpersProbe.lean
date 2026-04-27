@@ -1,0 +1,15 @@
+import MathlibExpansion.Polynomial.Eisenstein.Distinguished
+import MathlibExpansion.PowerSeries.CoeffMulMem
+import MathlibExpansion.PowerSeries.Trunc
+
+open scoped Polynomial
+
+variable {R : Type*} [CommRing R]
+
+#check MathlibExpansion.PowerSeries.eq_shift_mul_X_pow_add_trunc
+#check MathlibExpansion.PowerSeries.eq_X_pow_mul_shift_add_trunc
+#check MathlibExpansion.PowerSeries.coeff_mul_mem_ideal_mul_ideal_of_coeff_mem_ideal
+#check MathlibExpansion.PowerSeries.coeff_mul_mem_ideal_of_coeff_left_mem_ideal'
+#check MathlibExpansion.Polynomial.IsDistinguishedAt
+#check MathlibExpansion.Polynomial.IsDistinguishedAt.map_eq_X_pow
+#check MathlibExpansion.Polynomial.IsDistinguishedAt.coe_natDegree_eq_order_map

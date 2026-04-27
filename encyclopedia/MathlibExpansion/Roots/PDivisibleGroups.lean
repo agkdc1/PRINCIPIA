@@ -1,0 +1,4 @@
+-- QUARANTINED: W5 R7 breach (2026-04-20)
+-- PDivisibleGroups.lean quarantined until W6 cleanup (per boardroom fire-spec).
+-- No longer imported by MathlibExpansion.lean.
+-- Retained for git history; contains no active definitions.

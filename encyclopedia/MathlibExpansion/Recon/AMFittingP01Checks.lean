@@ -1,0 +1,37 @@
+import Mathlib.RingTheory.Artinian.Module
+import Mathlib.RingTheory.FiniteLength
+
+open scoped BigOperators
+
+#check IsArtinian
+#check isArtinian_iff
+#check LinearMap.isArtinian_iff_of_bijective
+#check isArtinian_of_injective
+#check isArtinian_of_surjective
+#check isArtinian_of_linearEquiv
+#check LinearEquiv.isArtinian_iff
+#check IsArtinian.finite_of_linearIndependent
+#check set_has_minimal_iff_artinian
+#check IsArtinian.set_has_minimal
+#check monotone_stabilizes_iff_artinian
+#check IsArtinian.monotone_stabilizes
+#check IsArtinian.eventuallyConst_of_isArtinian
+#check IsArtinian.induction
+#check IsArtinian.surjective_of_injective_endomorphism
+#check IsArtinian.bijective_of_injective_endomorphism
+#check LinearMap.eventually_iInf_range_pow_eq
+#check isArtinian_of_quotient_of_artinian
+#check isArtinian_of_range_eq_ker
+#check isArtinian_iff_submodule_quotient
+#check IsArtinianRing
+#check isArtinianRing_iff
+#check isArtinian_of_fg_of_artinian
+
+#check IsFiniteLength
+#check LinearEquiv.isFiniteLength
+#check exists_compositionSeries_of_isNoetherian_isArtinian
+#check isFiniteLength_of_exists_compositionSeries
+#check isFiniteLength_iff_isNoetherian_isArtinian
+#check isFiniteLength_iff_exists_compositionSeries
+#check IsSemisimpleModule.finite_tfae
+

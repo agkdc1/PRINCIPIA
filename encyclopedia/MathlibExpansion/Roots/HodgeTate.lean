@@ -1,0 +1,4 @@
+-- DEMOLISHED: W5 R7 breach (2026-04-20)
+-- Content replaced by MathlibExpansion.Roots.HodgeTate.* (7-file skeleton).
+-- This file is no longer imported by MathlibExpansion.lean.
+-- Retained only to avoid breaking the git working tree; contains no definitions.
